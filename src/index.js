@@ -6,7 +6,7 @@ import './css/login.css';
 import App from './App';
 import Login from './componentes/Login';
 import Logout from './componentes/Logout';
-import {Router,Route,browserHistory, matchPath} from 'react-router';
+import {Router,Route,browserHistory /*matchPat*/} from 'react-router';
 import {matchPattern} from 'react-router/lib/PatternUtils'
 
 function verificaAutenticacao(nextState,replace) {
