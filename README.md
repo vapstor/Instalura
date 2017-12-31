@@ -7,6 +7,8 @@ Certifique-se de ter o MySQL instalado.
 
 Faça o download da api aqui:
 
+https://www.dropbox.com/s/i59oneesqh3q8is/instalura.zip?dl=1
+
 e rode-a por meio de:
 
 ``java -jar instalura.jar``
