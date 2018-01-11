@@ -3,7 +3,7 @@
 
 Use ``create-react-class instalura`` pra iniciar o projeto React.
 
-Certifique-se de ter o MySQL instalado.
+<i>Certifique-se de ter o MySQL instalado.</i>
 
 Faça o download da api aqui:
 
